@@ -29,6 +29,7 @@ figcaption {
   display: block;
   background-color: grey;
   margin: auto;
-  float: left
+  float: left;
+  width: 25%;
 }
 
