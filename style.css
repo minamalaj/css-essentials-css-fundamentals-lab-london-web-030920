@@ -27,7 +27,7 @@ figcaption {
 #details div { 
   float: left}
  
- details a {
+ details {
   text-align: center;
  display: block;
   background-color: green;
